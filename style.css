@@ -6,6 +6,9 @@ body {
 input, button {
     margin: 10px;
     padding: 8px;
+    background-color: purple;
+    border-color:black;
+    color:black;
 }
 
 #country-info, #bordering-countries {
@@ -17,4 +20,7 @@ input, button {
     height: auto;
     display: block;
     margin: 10px auto;
+}
+.head{
+    background-color: black;
 }
